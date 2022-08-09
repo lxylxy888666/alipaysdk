@@ -1,8 +1,7 @@
 {
-	"name":"alipaysdk/easysdk",
+	"name":"lxylxy888666/alipaysdk.git",
 	"description":"支付宝官方 Alipay Easy SDK",
 	"type":"library",
-	"version":"2.2.1",
 	"authors":[
 		{
 			"name":"junying.wjy",
