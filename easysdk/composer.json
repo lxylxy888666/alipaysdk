@@ -49,8 +49,8 @@
 	},
 	"repositories":{
 		"packagist":{
-			"type":"composer",
-			"url":"https://mirrors.aliyun.com/composer/"
+			"type": "git",
+			"url": "https://github.com/lxylxy888666/alipaysdk.git"
 		}
 	}
 }
